@@ -1,0 +1,21 @@
+.bg-container {
+  background-color: #161625;
+  padding: 20px;
+}
+.logo-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.heading {
+  color: #2cc6c6;
+  font-size: 25px;
+}
+.logo {
+  height: 25px;
+}
+.head-para {
+  color: white;
+  font-size: 18px;
+}
